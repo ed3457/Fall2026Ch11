@@ -11,7 +11,8 @@ public:
 
 	void setName(string n);
 	string getName();
-	void setSalary();
+
+	void setSalary(float s);
 	float getSalary();
 
 	Employee();
