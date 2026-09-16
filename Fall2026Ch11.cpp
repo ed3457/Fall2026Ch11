@@ -10,7 +10,7 @@ int main()
 {
 	Employee e1("Jack Smith", 20000);
 
-	Manager m1;
+	Manager m1("Mary Jones", 40000, 0.4);
 
 	e1.printInfo();
 
